@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\LibraryManagmentSystem1\LibraryManagmentSystem1\bin\Debug\net8.0\LibraryManagmentSystem1.exe
+C:\Users\User\source\repos\LibraryManagmentSystem1\LibraryManagmentSystem1\bin\Debug\net8.0\LibraryManagmentSystem1.deps.json
+C:\Users\User\source\repos\LibraryManagmentSystem1\LibraryManagmentSystem1\bin\Debug\net8.0\LibraryManagmentSystem1.runtimeconfig.json
+C:\Users\User\source\repos\LibraryManagmentSystem1\LibraryManagmentSystem1\bin\Debug\net8.0\LibraryManagmentSystem1.dll
+C:\Users\User\source\repos\LibraryManagmentSystem1\LibraryManagmentSystem1\bin\Debug\net8.0\LibraryManagmentSystem1.pdb
+C:\Users\User\source\repos\LibraryManagmentSystem1\LibraryManagmentSystem1\obj\Debug\net8.0\LibraryManagmentSystem1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LibraryManagmentSystem1\LibraryManagmentSystem1\obj\Debug\net8.0\LibraryManagmentSystem1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LibraryManagmentSystem1\LibraryManagmentSystem1\obj\Debug\net8.0\LibraryManagmentSystem1.AssemblyInfo.cs
+C:\Users\User\source\repos\LibraryManagmentSystem1\LibraryManagmentSystem1\obj\Debug\net8.0\LibraryManagmentSystem1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LibraryManagmentSystem1\LibraryManagmentSystem1\obj\Debug\net8.0\LibraryManagmentSystem1.dll
+C:\Users\User\source\repos\LibraryManagmentSystem1\LibraryManagmentSystem1\obj\Debug\net8.0\refint\LibraryManagmentSystem1.dll
+C:\Users\User\source\repos\LibraryManagmentSystem1\LibraryManagmentSystem1\obj\Debug\net8.0\LibraryManagmentSystem1.pdb
+C:\Users\User\source\repos\LibraryManagmentSystem1\LibraryManagmentSystem1\obj\Debug\net8.0\LibraryManagmentSystem1.genruntimeconfig.cache
+C:\Users\User\source\repos\LibraryManagmentSystem1\LibraryManagmentSystem1\obj\Debug\net8.0\ref\LibraryManagmentSystem1.dll
