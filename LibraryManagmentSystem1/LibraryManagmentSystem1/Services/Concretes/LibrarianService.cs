@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using LibraryManagmentSystem1.Interfaces;
-namespace LibraryManagmentSystem1.Models
+using LibraryManagmentSystem1.Models;
+using LibraryManagmentSystem1.Services.Interfaces;
+namespace LibraryManagmentSystem1.Services.Concretes
 {
     internal class LibrarianService : ILibrarianService
     {
@@ -21,7 +22,7 @@ namespace LibraryManagmentSystem1.Models
 
             for (int i = 0; i < librarians.Length; i++)
             {
-                if(librarians[i] == librarian)
+                if (librarians[i] == librarian)
                 {
                     index = i;
                     break;

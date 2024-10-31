@@ -5,13 +5,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LibraryManagmentSystem1.Interfaces
+namespace LibraryManagmentSystem1.Services.Interfaces
 {
     internal interface ILibrarianService
     {
-        public  Librarian GetLibrarianById(int id);
+        public Librarian GetLibrarianById(int id);
         public Librarian[] GetAllLibrarians();
         public void CreateLibrarian(Librarian librarian);
-        public void DeleteLibrarian( Librarian librarian, bool IsSoftDelete );
+        public void DeleteLibrarian(Librarian librarian, bool IsSoftDelete);
     }
 }

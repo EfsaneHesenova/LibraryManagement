@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\LibraryManagmentSystem1\\LibraryManagmentSystem1\\LibraryManagmentSystem1.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\LibraryManagement\\LibraryManagmentSystem1\\LibraryManagmentSystem1\\LibraryManagmentSystem1.csproj",
       "projectName": "LibraryManagmentSystem1",
-      "projectPath": "C:\\Users\\User\\source\\repos\\LibraryManagmentSystem1\\LibraryManagmentSystem1\\LibraryManagmentSystem1.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\LibraryManagement\\LibraryManagmentSystem1\\LibraryManagmentSystem1\\LibraryManagmentSystem1.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\LibraryManagmentSystem1\\LibraryManagmentSystem1\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\LibraryManagement\\LibraryManagmentSystem1\\LibraryManagmentSystem1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

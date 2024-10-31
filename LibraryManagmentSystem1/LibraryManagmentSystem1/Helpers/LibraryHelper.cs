@@ -3,15 +3,16 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using LibraryManagmentSystem1.Models;
 
-namespace LibraryManagmentSystem1.Models
+namespace LibraryManagmentSystem1.Helpers
 {
     internal static class LibraryHelper
     {
         public static int CalculateAge(this LibraryItem item)
         {
             int age;
-           return age = DateTime.Now.Year - item.PublicationYear.Year;
+            return age = DateTime.Now.Year - item.PublicationYear.Year;
         }
 
         public static string ToTitleCase(this LibraryItem item)
